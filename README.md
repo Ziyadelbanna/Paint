@@ -6,7 +6,7 @@ PlugIn is used to insert a new shape not included among the default shapes.
 
 ### Download le-Paint 
 
-Download [draw.jar](https://github.com/ziyadelbanna/da-Paint/blob/master/draw.jar?raw=true)
+Download the application [here](https://github.com/ziyadelbanna/da-Paint/blob/master/draw.jar?raw=true)
 
 _The jar file is only for windows._
 
