@@ -1,4 +1,4 @@
-# le-Paint ![GUI Z.Elbanna](https://img.shields.io/badge/GUI-Z.Elbanna-yellowgreen.svg?style=plastic)
+# le-Paint ![GUI Z._Elbanna](https://img.shields.io/badge/GUI-Z._Elbanna-yellowgreen.svg?style=plastic)
 
 >_Is a paint application which allows you to draw and color several geometrical shapes. With undo, redo, resize, delete and move shapes, paint is made easier._
 
