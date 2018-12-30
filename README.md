@@ -2,7 +2,7 @@
 
 >_Is a paint application which allows you to draw and color several geometrical shapes. With undo, redo, resize, delete and move shapes, paint is made easier._
 
-PlugIn is used to insert a new shape not included among the default shapes.
+* Use PlugIn to insert any new shape you want,that's not included among the default shapes.
 
 ### Download le-Paint 
 
