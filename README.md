@@ -2,7 +2,7 @@
 
 >_A paint application which draws and colors several geometrical shapes. With undo, redo, resize, delete and move shapes, paint is made easier._
 
-* Use PlugIn to insert any new shape you want that is not included among the default shapes.
+* Use "PlugIn" to insert any new shape you want that is not included among the default shapes.
 
 ### Download Paint 
 
